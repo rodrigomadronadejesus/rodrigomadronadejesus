@@ -7,9 +7,9 @@
 </div>
 
 <div>
-<a href="https://github.com/rodrigomadronadejesus">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomadronadejesus&layout=compact&langs_count=8&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigomadronadejesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/rodrigomadronadejesus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomadronadejesus&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigomadronadejesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!-- Snake Game -->
@@ -21,7 +21,12 @@
 <div style="background-color: black;">
   <img src="https://www.versatecnologia.com.br/wp-content/uploads/2018/10/VT_Header-1.png" alt="VersaTEC"/>
 </div>
-
+ 
+## FREELANCER
+  
+## EXPERIÊNCIAS PROFISSIONAIS ANTERIORES
+## CURSOS E CERTIFICAÇÕES
+## PORTIFÓLIO
 ## LISTA DE TECNOLOGIAS QUE TRABALHO
 | Ordem | Tecnologia | Habilidade |Descrição|
 |:---: |:---: |:---: |:---:|
@@ -30,11 +35,10 @@
 | 03 | React Native | 8 de 10 |React Native (também conhecido como RN) é uma estrutura de aplicativo móvel popular, baseada na linguagem JavaScript, que permite criar aplicativos móveis renderizados nativamente para iOS e Android. A estrutura permite criar um aplicativo para várias plataformas usando a mesma base de código.|
   
 ## REDES SOCIAIS
-<!--
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)
--->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/rodrigo-madrona-de-jesus-54a81b22b)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rodrigomadronadejesus) 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/rodrigo.madronadejesus?mibextid=ZbWKwL)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME)
 [<img src="https://img.shields.io/badge/-YouTube-ff0000?style=for-the-badge&labelColor=ff0000&logo=youtube&logoColor=white" />](https://twitter.com/USERNAME)
+  
+## FOTOS
