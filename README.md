@@ -16,6 +16,11 @@
 ![snake gif](https://github.com/rodrigomadronadejesus/rodrigomadronadejesus/blob/output/github-contribution-grid-snake.svg)
 
   Olá me chamo Rodrigo Madrona de Jesus, sou graduado em ciência da computação,
+ 
+## TRABALHO ATUAL
+<div style="background-color: black;">
+  <img src="https://www.versatecnologia.com.br/wp-content/uploads/2018/10/VT_Header-1.png" alt="VersaTEC"/>
+</div>
 
 ## LISTA DE TECNOLOGIAS QUE TRABALHO
 | Ordem | Tecnologia | Habilidade |Descrição|
