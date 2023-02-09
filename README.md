@@ -1,3 +1,14 @@
+## RODRIGO MADRONA DE JESUS
+<div>
+<a href="https://github.com/rodrigomadronadejesus">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomadronadejesus&layout=compact&langs_count=8&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigomadronadejesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+  
+
+
+  Olá me chamo Rodrigo Madrona de Jesus, sou graduado em ciência da computação,
 ## REDES SOCIAIS
 <!--
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) 
