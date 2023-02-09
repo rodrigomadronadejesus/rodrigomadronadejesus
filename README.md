@@ -14,11 +14,16 @@
 
 <!-- Snake Game -->
 ![snake gif](https://github.com/rodrigomadronadejesus/rodrigomadronadejesus/blob/output/github-contribution-grid-snake.svg)
-  
-  
-
 
   Olá me chamo Rodrigo Madrona de Jesus, sou graduado em ciência da computação,
+
+## LISTA DE TECNOLOGIAS QUE TRABALHO
+| Ordem | Tecnologia | Habilidade |Descrição|
+|:---: |:---: |:---: |:---:|
+| 01 | HTML | 10 de 10 |O HTML é a principal linguagem de programação encontrada na internet. Cada página HTML tem uma série de elementos que cria a estrutura dos conteúdos de uma página ou de um aplicativo.|
+| 02 | CSS | 8 de 10 |CSS é a sigla para Cascading Style Sheets, ou seja, Folhas de Estilo em Cascatas. É uma maneira de dar estilo ao código criado por linguagens como HTML, XML ou XHTML, por exemplo. De forma prática, ela funciona como uma camada de personalização ao conteúdo visível.|
+| 03 | React Native | 8 de 10 |React Native (também conhecido como RN) é uma estrutura de aplicativo móvel popular, baseada na linguagem JavaScript, que permite criar aplicativos móveis renderizados nativamente para iOS e Android. A estrutura permite criar um aplicativo para várias plataformas usando a mesma base de código.|
+  
 ## REDES SOCIAIS
 <!--
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)
