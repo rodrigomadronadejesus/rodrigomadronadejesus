@@ -1,4 +1,4 @@
-## RODRIGO MADRONA DE JESUS
+## RODRIGO MADRONA DE JESUS - DESENVOLVEDOR FULL STACK PHP/JS
 
 <div align="center">
   <h3> Olá meus amigos 	&#128512;	&#128512;!! </h3>
