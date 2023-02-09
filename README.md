@@ -1,4 +1,11 @@
 ## RODRIGO MADRONA DE JESUS
+
+<div align="center">
+  <h3> Olá meus amigos 	&#128512;	&#128512;!! </h3>
+  <p>Deixe-me apresentar-me: eu me chamo <b>Rodrigo Madrona</b>.</p>
+  <img height="700" src="/avatar/octocat-madrona.png"/>
+</div>
+
 <div>
 <a href="https://github.com/rodrigomadronadejesus">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomadronadejesus&layout=compact&langs_count=8&theme=dracula"/>
